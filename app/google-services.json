@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "233429889612",
+    "firebase_url": "https://paymentapp-72f47.firebaseio.com",
+    "project_id": "paymentapp-72f47",
+    "storage_bucket": "paymentapp-72f47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233429889612:android:2147e2d25643edd1",
+        "android_client_info": {
+          "package_name": "com.deepanshu.payment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233429889612-mg2joilh6dm82d3rhrr2v9egmk5pphal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deepanshu.payment_app",
+            "certificate_hash": "418dbe6f3dc05f8004785555c4bcfc6c7fa415bc"
+          }
+        },
+        {
+          "client_id": "233429889612-1mh6qhiuqdpf5nb9kl8qcgj3impg8cof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6QxC3yCkCPBhLxVjTS-RxEoO34cedzc0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233429889612-1mh6qhiuqdpf5nb9kl8qcgj3impg8cof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
